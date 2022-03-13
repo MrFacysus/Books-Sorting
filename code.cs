@@ -1,4 +1,4 @@
-Console.WriteLine("Ime \t Autor \t Godina izdanja\n");
+Console.WriteLine("Name \t Autor \t Year of Release\n");
 List<string> inputs = new List<string>();
 string input = Console.ReadLine();
 List<Book> books = new List<Book>();
